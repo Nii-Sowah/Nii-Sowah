@@ -20,7 +20,8 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Nii-Sowah&icon=2&color=10)](https://visitcount.itsvg.in)
 
-https://github.com/Nii-Sowah/Nii-Sowah/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark
+---
+[![](https://github.com/Nii-Sowah/Nii-Sowah/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
 **Nii-Sowah/Nii-Sowah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
