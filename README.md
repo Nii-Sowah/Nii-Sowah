@@ -20,6 +20,12 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Nii-Sowah&icon=2&color=10)](https://visitcount.itsvg.in)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="Github contribution grid snake animation" src="https://githubusercontent.com">
+</picture>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
 **Nii-Sowah/Nii-Sowah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
