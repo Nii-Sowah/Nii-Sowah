@@ -20,11 +20,8 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Nii-Sowah&icon=2&color=10)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="Github contribution grid snake animation" src="https://githubusercontent.com">
-</picture>
+
+<img src="https://raw.githubusercontent.com/Nii-Sowah/Nii-Sowahoutput/snake.svg" alt="Snake animation" />
 
 
 
