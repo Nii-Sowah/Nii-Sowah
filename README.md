@@ -20,23 +20,7 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Nii-Sowah&icon=2&color=10)](https://visitcount.itsvg.in)
 
-- uses: Platane/snk@v3
-  with:
-    Nii-Sowah : ${{ Nii Sowah }}
-  
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+https://github.com/Nii-Sowah/Nii-Sowah/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
 **Nii-Sowah/Nii-Sowah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
