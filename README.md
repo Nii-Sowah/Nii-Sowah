@@ -21,7 +21,9 @@
 [![](https://komarev.com/ghpvc/?username=Nii-Sowah&icon=2&color=10)](https://visitcount.itsvg.in)
 
 
-<img src="https://raw.githubusercontent.com/Nii-Sowah/Nii-Sowahoutput/snake.svg" alt="Snake animation" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 
