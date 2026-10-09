@@ -24,7 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML         33 mins               ██████████▓░░░░░░░░░░░░░░   42.81 %
+JavaScript   32 mins               ██████████▒░░░░░░░░░░░░░░   41.51 %
+CSS          4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+Markdown     3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+YAML         3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
 ```
 
 <!--END_SECTION:waka-->
